@@ -1,4 +1,4 @@
-# R-Telco-Customer-Churn-Data-Cleaning-and-Exploratory-Analysis
+# R-Telco Customer Churn Data Cleaning and Exploratory Analysis
 ![Img1](https://github.com/felipe-lemos-costa/SR-Telco-Customer-Churn-Data-Cleaning-and-Exploratory-Analysis/raw/main/images/Img1.jpg)
 
 # Summary
