@@ -6,4 +6,4 @@ In this project, I performed data cleaning and exploratory analysis on the Telco
 
 # Key Insights
 1. The overall churn rate is 26.6%, meaning that roughly one in four customers left the company. This indicates a moderate level of customer attrition and highlights the importance of retention strategies to reduce churn and maintain a stable customer base.
-![Img2](https://github.com/felipe-lemos-costa/R-Telco-Customer-Churn-Data-Cleaning-and-Exploratory-Analysis/raw/main/images/img2.jpg)
+![Img2](https://github.com/felipe-lemos-costa/R-Telco-Customer-Churn-Data-Cleaning-and-Exploratory-Analysis/raw/main/images/img2.jpeg)
