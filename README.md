@@ -14,3 +14,6 @@ In this project, I performed data cleaning and exploratory analysis on the Telco
 * Two-year contracts show a very low churn, only 2.8%, indicating that long-term contracts retain customers much more effectively.
 
 ![Img3](https://github.com/felipe-lemos-costa/R-Telco-Customer-Churn-Data-Cleaning-and-Exploratory-Analysis/raw/main/images/img3.jpeg)
+
+3. The chart shows that customer churn decreases as the monthly charge decreases. Customers paying less than $30 per month have the lowest churn rate at 9.8%, while those in the $60–$89 range have the highest churn at 33.8%, followed closely by the $90+ group at 32.9%. This suggests that higher-priced plans are more likely to experience customer cancellations, indicating that pricing could be a key factor influencing churn.
+![Img4](https://github.com/felipe-lemos-costa/R-Telco-Customer-Churn-Data-Cleaning-and-Exploratory-Analysis/raw/main/images/img4.jpeg)
