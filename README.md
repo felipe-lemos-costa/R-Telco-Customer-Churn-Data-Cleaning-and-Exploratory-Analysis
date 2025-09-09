@@ -17,3 +17,11 @@ In this project, I performed data cleaning and exploratory analysis on the Telco
 
 3. The chart shows that customer churn decreases as the monthly charge decreases. Customers paying less than $30 per month have the lowest churn rate at 9.8%, while those in the $60–$89 range have the highest churn at 33.8%, followed closely by the $90+ group at 32.9%. This suggests that higher-priced plans are more likely to experience customer cancellations, indicating that pricing could be a key factor influencing churn.
 ![Img4](https://github.com/felipe-lemos-costa/R-Telco-Customer-Churn-Data-Cleaning-and-Exploratory-Analysis/raw/main/images/img4.jpeg)
+
+# Conclusion
+This exploratory analysis of the Telco Customer Churn dataset provided valuable insights into customer behavior and factors influencing churn. The overall churn rate of 26.6% highlights a significant opportunity for retention strategies. Contract type emerged as a critical factor: customers with month-to-month contracts are at the highest risk of leaving, while longer-term contracts strongly improve retention. Additionally, higher monthly charges are associated with increased churn, suggesting that pricing plays a key role in customer decisions.
+
+These findings offer a solid foundation for developing predictive models to identify at-risk customers and for designing targeted retention initiatives. By focusing on contract structuring and pricing strategies, companies can reduce churn, improve customer satisfaction, and increase long-term profitability.
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
